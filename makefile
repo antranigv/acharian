@@ -5,7 +5,7 @@ tabfile:
 	stardict_tabfile acharian.tab
 
 babylon:
-	stardict_babylon acharian.tab
+	stardict_babylon acharian.babylon
 
 clean:
 	rm acharian.dict
